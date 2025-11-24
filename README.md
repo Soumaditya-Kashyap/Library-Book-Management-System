@@ -4,7 +4,7 @@ A fully interactive **Tkinter-based GUI application** for managing library books
 
 <div align="center">
 
-![Main Interface](mainpage.png)
+![Main Interface](images/mainpage.png)
 
 </div>
 
@@ -125,8 +125,9 @@ Library-Book-Management-System/
 ├── main.py              # Console version (Phase 1)
 ├── books.json           # Book database
 ├── README.md            # Documentation
-├── mainpage.png         # Screenshot: Main interface
+├── LICENSE              # MIT License
 └── images/              # Application screenshots
+    ├── mainpage.png     # Main interface
     ├── AddBook.png      # Add book form
     ├── search.png       # Search functionality
     ├── issue.png        # Issue book window
@@ -162,7 +163,9 @@ Library-Book-Management-System/
 
 ## 📄 License
 
-This project is created for **educational purposes** — free to use and modify.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+Free to use, modify, and distribute for educational and commercial purposes.
 
 ## 👨‍💻 Author
 
